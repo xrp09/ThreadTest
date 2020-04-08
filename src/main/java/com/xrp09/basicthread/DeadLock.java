@@ -1,4 +1,3 @@
-package com.xrp09.basicthread;
 import static java.lang.Thread.currentThread;
 public class DeadLock {
 

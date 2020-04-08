@@ -1,4 +1,3 @@
-package com.xrp09.basicthread;
 
 public class DaemonThread {
 
